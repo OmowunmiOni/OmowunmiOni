@@ -7,7 +7,7 @@
 
 ## 🧠 What I'm Learning
 
-- 📌 SQL for data analysis and querying business datasets  
+- 📌 SQL for data analysis and querying datasets  
 - 📊 Excel for organizing, analyzing, and visualizing data  
 - 📈 Power BI for dashboards and data storytelling
 
@@ -35,4 +35,4 @@
 
 I'm open to learning, collaboration, and mentorship opportunities!  
 You can find me on:
-- GitHub: [https://github.com/your-OmowunmiOni]
+- GitHub: [https://github.com/OmowunmiOni]
