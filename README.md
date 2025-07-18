@@ -35,4 +35,4 @@
 
 I'm open to learning, collaboration, and mentorship opportunities!  
 You can find me on:
-- GitHub: [github.com/your-username](https://github.com/your-OmowunmiOni)
+- GitHub: [https://github.com/your-OmowunmiOni]
