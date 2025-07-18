@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hello, I'm Omowunmi Oni 
 
-<!--
-**OmowunmiOni/OmowunmiOni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an aspiring **Data Analyst** with a passion for turning raw data into meaningful insights.  
+🛠️ Currently building projects using **Excel**, **SQL**, and soon **Power BI**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+
+- 📌 SQL for data analysis and querying business datasets  
+- 📊 Excel for organizing, analyzing, and visualizing data  
+- 📈 Power BI for dashboards and data storytelling
+
+---
+
+## 📁 My Projects
+
+- [📦 Amazon Case Study (Excel)](https://github.com/your-username/dsa-amazon-case-study):  
+  Product pricing and review analysis using pivot tables and formulas
+
+- [🛍️ KMS SQL Analysis](https://github.com/your-username/kms-sql-project):  
+  SQL queries answering key business questions on customer and sales performance
+
+---
+
+## 🌱 Currently Exploring
+
+- Data cleaning & transformation  
+- Creating dashboards with Power BI  
+- Improving storytelling with visuals
+
+---
+
+## 📫 Connect with Me
+
+I'm open to learning, collaboration, and mentorship opportunities!  
+You can find me on:
+- GitHub: [github.com/your-username](https://github.com/your-OmowunmiOni)
